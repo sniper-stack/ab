@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+    text-align: justify;
+}
+.orange-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    
+    background-image: url(Image/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 250px;
+    
+
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, black,green);
+    padding:  10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.Career{
+    background-image: url(Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 4%;
+
+}
+.journey{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 7px;
+    height: 80%;
+    background-color: white;
+}
+
+.Performance{
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 6%;
+
+}
+#world-cup{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato); 
+    border-image-slice: 1;
+
+}
+
+#retirement{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan); 
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    padding-bottom: 2%;
+
+}
