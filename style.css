@@ -32,7 +32,7 @@ p{
 }
 .top-banner{
     
-    background-image: url(Image/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -51,7 +51,7 @@ section{
     font-weight: 700;
 }
 .Career{
-    background-image: url(Image/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 4%;
@@ -65,7 +65,7 @@ section{
 }
 
 .Performance{
-    background-image: url(Image/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 6%;
